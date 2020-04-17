@@ -157,9 +157,11 @@ Pavlo Zoria notes:
 
 Commands that you should use to deply firebase functions:
 
+```
   npm install -g firebase-tools 
   firebase login 
   firebase use tcocvd
+```
 
 *To install additional debendencies you should use folowing commands:*
 ```
@@ -172,4 +174,6 @@ Commands that you should use to deply firebase functions:
 ```
 
 and finaly:
+```
   firebase deploy
+```
